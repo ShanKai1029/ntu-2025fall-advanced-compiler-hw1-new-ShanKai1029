@@ -1,4 +1,4 @@
-Advanced Compiler Course - Homework 0
+Advanced Compiler Course - Homework 1
 =======
 
 # Introduction
@@ -71,6 +71,6 @@ Viewing Your Results:
 
 ```=sh
 git add install_bril.sh
-git commit -m "Completed Homework 0"
+git commit -m "Completed Homework 1"
 git push origin main
 ```

@@ -77,5 +77,3 @@ echo "=== Installation complete! ==="
 
 echo "Make sure your PATH includes: \$HOME/.local/bin and \$HOME/.deno/bin"
 # 提醒使用者要把 ~/.local/bin 和 ~/.deno/bin 加到 PATH，這樣才能在任何地方使用這些工具
-
-
